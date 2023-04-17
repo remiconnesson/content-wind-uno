@@ -1,0 +1,1 @@
+import{a as e,b as s,h as r,k as o,o as t}from"./entry.a5bb9e8e.js";const n={},c={class:"max-w-2xl px-4 py-10 m-auto bg-white sm:px-8 sm:shadow dark:bg-primary-800 ring-1 ring-gray-200 dark:ring-gray-700 sm:rounded-lg"},d={class:"max-w-none"};function i(a,l){return t(),s("div",c,[r("main",d,[o(a.$slots,"default")])])}const _=e(n,[["render",i]]);export{_ as default};
